@@ -12,7 +12,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing <a href="https://mailto:igbifagodwin@gmail.com" target="_blank">Send me mail</a>.
-
+I'm also available for part jobs and as well as full time.! 
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=igbifagodwin&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igbifagodwin&langs_count=8&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> |
